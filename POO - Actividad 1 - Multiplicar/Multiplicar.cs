@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace POO___Actividad_1___Multiplicar
+{
+    internal class Multiplicar
+    {
+        public int num1;
+        public int num2;
+
+        public Multiplicar()
+        {
+        }
+
+        public Multiplicar(int num1, int num2)
+        {
+            this.num1 = num1;
+            this.num2 = num2;
+        }
+        public int multipica()
+        {
+            return num1 * num2;
+        }
+    }
+}

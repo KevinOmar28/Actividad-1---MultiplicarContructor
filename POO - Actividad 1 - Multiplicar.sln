@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - Actividad 1 - Multiplicar", "POO - Actividad 1 - Multiplicar\POO - Actividad 1 - Multiplicar.csproj", "{DC6CB034-7DB9-493D-BBAF-B220BA8FA57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6CB034-7DB9-493D-BBAF-B220BA8FA57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6CB034-7DB9-493D-BBAF-B220BA8FA57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6CB034-7DB9-493D-BBAF-B220BA8FA57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6CB034-7DB9-493D-BBAF-B220BA8FA57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5001C653-8EB7-4087-960F-41280ECB096A}
+	EndGlobalSection
+EndGlobal
